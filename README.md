@@ -1,2 +1,2 @@
-# ai-for-education
+# AI for Education
 Dedicated repository for RnD team of AI for Education.
